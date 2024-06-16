@@ -7,5 +7,5 @@ def get_fonts():
       font_path = entry_point.load()
       fonts.append(font_path)
    return fonts
-
-print(get_fonts())
+if __name__ == "__main__":
+  print(get_fonts())
