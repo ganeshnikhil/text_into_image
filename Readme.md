@@ -5,7 +5,7 @@ This Python script provides a convenient way to generate text images with custom
 
  Text conv Image 
 |--------------|
-<img src="sample/1.jpg" width = "500"/>|
+<img src="sample/1.jpg" width = "600"/>|
 
 **Key Features:**
 
