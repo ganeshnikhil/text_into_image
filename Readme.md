@@ -3,6 +3,10 @@
 
 This Python script provides a convenient way to generate text images with customizable colors, fonts, and formatting. It offers a user-friendly interface for creating visually appealing text-based graphics.
 
+ Text conv Image 
+|--------------|
+<img src="sample/1.jpg" width = "500"/>|
+
 **Key Features:**
 
 - **Color Selection:** Choose from a predefined set of colors using color names (e.g., 'blue', 'red', 'green') or use hex codes for more specific color control.
